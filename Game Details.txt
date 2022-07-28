@@ -1,0 +1,14 @@
+;=====================================
+;	Student Name: Sunao Gomi
+;	Studen ID: 101073228
+;	Course: ELEC 4601
+;=====================================
+
+The game has an increasing difficulty system and lives system. If difficulty increases, a lower tone beep is heard. If a rock is hit, a higher tone beep is heard.
+The current number of lives remaining is displayed at the top left of the screen. Game over is indicated by a jingle of the two tones. 
+There is also an edge detection to prevent the chonk from going off either side of the screen.
+
+Controls
+q- quit
+a- move left
+d- move right
